@@ -15,9 +15,6 @@ Site institucional da contadora Tayrine Amorim. É elegante e responsivo, e a id
 ## Tecnologias
 HTML, CSS e JavaScript puros, sem build. Fontes do Google Fonts. Hospedado na Netlify (`netlify.toml` publica a raiz).
 
-## Rodar localmente
-Abra o `index.html` no navegador ou rode `netlify dev`.
-
 ## Dados para atualizar
 Alguns dados profissionais são **fictícios** e precisam ser trocados:
 - CRC-DF `000000/O-0` e CNPJ `00.000.000/0001-00`
